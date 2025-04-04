@@ -1,3 +1,4 @@
+// This is the updated version with a new feature
 #pragma once
 
 int add(int a, int b);
